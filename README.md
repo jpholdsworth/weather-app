@@ -13,21 +13,56 @@ Built with HTML, CSS, and vanilla JavaScript, bundled with **Webpack** for optim
 ## 🎨 UI/UX 
 A strong UI is crucial for building engaging applications. The Weather App is thoughtfully designed to provide users with accurate weather information while delivering a pleasant experience:
 
-- **Desert landscape background** — evokes calm, warmth, and an inviting atmosphere
-- **Typography and color palette** — chosen for readability and visual harmony
-- **Weather icons** — provide instant visual cues so users can understand conditions at a glance
+- **Desert landscape background** - evokes calm, warmth, and an inviting atmosphere
+- **Typography and color palette** - chosen for readability and visual harmony
+- **Weather icons** - provide instant visual cues so users can understand conditions at a glance
 
 The combination of visual appeal and clarity makes the app intuitive and engaging.
 
 ## ✨ Features
-- 🔍 **Search by city** — get real-time weather for any city worldwide
-- 🌡️ **Current conditions** — temperature, humidity, wind speed, and overall weather
-- 🌤️ **Dynamic weather icons** — reflect real-time conditions at a glance
-- ⏱️ **Hourly forecast** — hour-by-hour breakdown for the current day
-- 📅 **5-day forecast** — overview of the week ahead
-- 🔄 **Unit toggle** — switch between °C/°F and metric/imperial for wind speed
-- 🕐 **Time format toggle** — 12-hour or 24-hour time display
-- ⚡ **Fast & lightweight** — vanilla JavaScript only, no frameworks
-- 📦 **Webpack bundled** — optimized for production
-- 🎨 **Clean UI** — simple, focused interface for ease of use
+- 🔍 **Search by city** - get real-time weather for any city worldwide
+- 🌡️ **Current conditions** - temperature, humidity, wind speed, and overall weather
+- 🌤️ **Dynamic weather icons** - reflect real-time conditions at a glance
+- ⏱️ **Hourly forecast** - hour-by-hour breakdown for the current day
+- 📅 **5-day forecast** - overview of the week ahead
+- 🔄 **Unit toggle** - switch between °C/°F and metric/imperial for wind speed
+- 🕐 **Time format toggle** - 12-hour or 24-hour time display
+- ⚡ **Fast & lightweight** - vanilla JavaScript only, no frameworks
+- 📦 **Webpack bundled** - optimized for production
+- 🎨 **Clean UI** - simple, focused interface for ease of use
 
+## 🚀 Getting Started
+**Prerequisites**
+- Node.js (v14+)
+- npx (comes with Node.js) 
+- OpenWeatherMap API Key (free tier available)
+<hr>
+
+### Installation & Setup
+1. Clone the repository
+```
+git clone https://github.com/jpholdsworth/weather-app.git
+cd weather-app
+```
+
+2. Install dependencies
+```
+npm install
+```
+
+3. Start the development server
+```
+npx webpack serve
+```
+
+4. Build for production
+```
+npx webpack
+```
+
+The optimised production build will be in the `/dist` folder.
+
+## 🔮 Future Improvements
+- [] Geolocation support - detect user location automatically
+- [] Enhanced UI animations & transitions
+- [] Cache recent searches using `localStorage`
