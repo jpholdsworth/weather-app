@@ -128,3 +128,7 @@ Webpack bundles all modules into an optimised production build for efficient loa
 - [ ] Geolocation support - detect user location automatically
 - [ ] Enhanced UI animations & transitions
 - [ ] Cache recent searches using `localStorage`
+
+---
+
+Made with ❤️ using vanilla JavaScript.
