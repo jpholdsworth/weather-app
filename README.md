@@ -36,7 +36,6 @@ The combination of visual appeal and clarity makes the app intuitive and engagin
 - Node.js (v14+)
 - npx (comes with Node.js) 
 - OpenWeatherMap API Key (free tier available)
-<hr>
 
 ### Installation & Setup
 1. Clone the repository
