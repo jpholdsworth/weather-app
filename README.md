@@ -63,6 +63,6 @@ npx webpack
 The optimised production build will be in the `/dist` folder.
 
 ## 🔮 Future Improvements
-- [] Geolocation support - detect user location automatically
-- [] Enhanced UI animations & transitions
-- [] Cache recent searches using `localStorage`
+- [ ] Geolocation support - detect user location automatically
+- [ ] Enhanced UI animations & transitions
+- [ ] Cache recent searches using `localStorage`
