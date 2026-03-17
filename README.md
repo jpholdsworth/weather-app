@@ -57,7 +57,7 @@ The combination of visual appeal and clarity makes the app intuitive and engagin
 
 ### Installation & Setup
 1. Clone the repository
-```
+```bash
 git clone https://github.com/jpholdsworth/weather-app.git
 cd weather-app
 ```
