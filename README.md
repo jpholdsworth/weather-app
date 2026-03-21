@@ -13,8 +13,8 @@ Built with HTML, CSS, and vanilla JavaScript, bundled with **Webpack** for optim
 
 ## 📑 Table of Contents
 - [The Vision](#-the-vision)
-- [Features](#-features)
 - [UI/UX](#-uiux)
+- [Features](#-features)
 - [Getting Started](#-getting-started)
 - [Usage](#-usage)
 - [Tech Stack](#-tech-stack)
