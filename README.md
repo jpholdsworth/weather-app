@@ -131,4 +131,8 @@ Webpack bundles all modules into an optimised production build for efficient loa
 
 ---
 
-Made with ❤️ using vanilla JavaScript.
+<div align="center">
+**Made with ❤️ and ☕ by Jacob Holdsworth.**
+    
+[👆 Back to Top](#🌦️-weather-app)
+</div>
